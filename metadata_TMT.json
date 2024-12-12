@@ -1,6 +1,18 @@
 {
-  "name": "Transcend money token",
+  "name": "Transcend Money Token",
   "symbol": "TMT",
-  "description": "Transcend money token for transcend money community.",
-  "image": "https://raw.githubusercontent.com/solana-developers/opos-asset/main/assets/CompressedCoil/image.png"
+  "description": "A utility token for the Transcend Money ecosystem.",
+  "image": "https://raw.githubusercontent.com/tonilopezortiz78/metadata_TMT/main/image.jpg",
+  "external_url": "https://transcend.money",
+  "attributes": [
+    {
+      "trait_type": "Purpose",
+      "value": "Utility"
+    },
+    {
+      "trait_type": "Supply",
+      "value": "1,000,000"
+    }
+  ]
 }
+
