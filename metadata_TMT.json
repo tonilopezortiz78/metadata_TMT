@@ -1,6 +1,6 @@
 {
-  "name": "Transcend money token metada",
+  "name": "Transcend money token",
   "symbol": "TMT",
-  "description": "Example token from Solana Making a Token guide.",
+  "description": "Transcend money token for transcend money community.",
   "image": "https://raw.githubusercontent.com/solana-developers/opos-asset/main/assets/CompressedCoil/image.png"
 }
